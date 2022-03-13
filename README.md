@@ -1,4 +1,4 @@
-# Getting Started with XO_Game (Tic-Tac-Toe) with based in blockchain and React.js 
+# Getting Started with XO_Game 2 player (Tic-Tac-Toe) with based in blockchain and React.js 
 
 
 
